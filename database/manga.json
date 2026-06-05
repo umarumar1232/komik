@@ -1,0 +1,44 @@
+{
+  "manga_id": "a-dragonslayers-peerless-regression",
+  "title": "A Dragonslayer’s Peerless Regression",
+  "alternative_title": "The Dragonslayer's Regression / 용살자의 역대급 회귀",
+  "status": "Ongoing",
+  "author": "Woo Gak",
+  "artist": "Do0",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Shounen",
+    "Regression"
+  ],
+  "type": "Manhwa",
+  "release_year": 2023,
+  "rating": "4.8",
+  "cover_url": "https://raw.githubusercontent.com/pasti-legal/storage/main/assets/a-dragonslayers-peerless-regression/cover.jpg",
+  "synopsis": "Slayer of dragons, the strongest warrior, meets his demise but miraculously wakes up in his past body. Armed with future knowledge and peerless battle instincts, he takes on the path of the ultimate dragonslayer once again, determined to fix the mistakes of his previous life.",
+  "chapters": [
+    {
+      "chapter_number": "1",
+      "chapter_title": "The Return of the Strongest",
+      "images": [
+        "https://raw.githubusercontent.com/pasti-legal/storage/main/assets/a-dragonslayers-peerless-regression/ch-1/001.jpg",
+        "https://raw.githubusercontent.com/pasti-legal/storage/main/assets/a-dragonslayers-peerless-regression/ch-1/002.jpg",
+        "https://raw.githubusercontent.com/pasti-legal/storage/main/assets/a-dragonslayers-peerless-regression/ch-1/003.jpg",
+        "https://raw.githubusercontent.com/pasti-legal/storage/main/assets/a-dragonslayers-peerless-regression/ch-1/004.jpg",
+        "https://raw.githubusercontent.com/pasti-legal/storage/main/assets/a-dragonslayers-peerless-regression/ch-1/005.jpg"
+      ]
+    },
+    {
+      "chapter_number": "2",
+      "chapter_title": "A New Beginning",
+      "images": [
+        "https://raw.githubusercontent.com/pasti-legal/storage/main/assets/a-dragonslayers-peerless-regression/ch-2/001.jpg",
+        "https://raw.githubusercontent.com/pasti-legal/storage/main/assets/a-dragonslayers-peerless-regression/ch-2/002.jpg",
+        "https://raw.githubusercontent.com/pasti-legal/storage/main/assets/a-dragonslayers-peerless-regression/ch-2/003.jpg",
+        "https://raw.githubusercontent.com/pasti-legal/storage/main/assets/a-dragonslayers-peerless-regression/ch-2/004.jpg",
+        "https://raw.githubusercontent.com/pasti-legal/storage/main/assets/a-dragonslayers-peerless-regression/ch-2/005.jpg"
+      ]
+    }
+  ]
+}
